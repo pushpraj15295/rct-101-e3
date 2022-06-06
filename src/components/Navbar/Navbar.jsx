@@ -1,5 +1,5 @@
 import React from "react";
-
+import {Link} from "react-router-dom";
 // use react-router Link or NavLink
 const Link = <a />;
 
